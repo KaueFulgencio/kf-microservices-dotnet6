@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wP9ShXSWf+J86XY9+uNwKWVedtfHKJLaXHQ7Q68KXifsvggqrvJv4VIgKg0XdqToNjani9hzPIec7L0yQkudnQ==",
+  "dgSpecHash": "jC33DbfO+aZINixnIi0JQSkzhMK6Vn4tjHPJ5ELa4b7OJDLZWCvuhg6yEsaZHE+T8Nu9hZEEtX3WFjMnWyNXug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KaueM\\OneDrive\\Área de Trabalho\\GitHub\\kf-microservices-dotnet6\\08_Microservices.NET7-OrganizandoPrimeiroMicrosserviço\\Geekshopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "C:\\Users\\KaueM\\OneDrive\\Área de Trabalho\\Udemy\\.NET\\kf-microservices-dotnet6\\08_Microservices.NET7-OrganizandoPrimeiroMicrosserviço\\Geekshopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

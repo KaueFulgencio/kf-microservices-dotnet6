@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KaueM\\OneDrive\\Área de Trabalho\\GitHub\\kf-microservices-dotnet6\\08_Microservices.NET7-OrganizandoPrimeiroMicrosserviço\\Geekshopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectUniqueName": "C:\\Users\\KaueM\\OneDrive\\Área de Trabalho\\Udemy\\.NET\\kf-microservices-dotnet6\\08_Microservices.NET7-OrganizandoPrimeiroMicrosserviço\\Geekshopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "projectName": "GeekShopping.Web",
-      "projectPath": "C:\\Users\\KaueM\\OneDrive\\Área de Trabalho\\GitHub\\kf-microservices-dotnet6\\08_Microservices.NET7-OrganizandoPrimeiroMicrosserviço\\Geekshopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+      "projectPath": "C:\\Users\\KaueM\\OneDrive\\Área de Trabalho\\Udemy\\.NET\\kf-microservices-dotnet6\\08_Microservices.NET7-OrganizandoPrimeiroMicrosserviço\\Geekshopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
       "packagesPath": "C:\\Users\\KaueM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KaueM\\OneDrive\\Área de Trabalho\\GitHub\\kf-microservices-dotnet6\\08_Microservices.NET7-OrganizandoPrimeiroMicrosserviço\\Geekshopping\\GeekShopping.Web\\obj\\",
+      "outputPath": "C:\\Users\\KaueM\\OneDrive\\Área de Trabalho\\Udemy\\.NET\\kf-microservices-dotnet6\\08_Microservices.NET7-OrganizandoPrimeiroMicrosserviço\\Geekshopping\\GeekShopping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
